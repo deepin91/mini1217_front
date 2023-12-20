@@ -1,13 +1,13 @@
 import axios from "axios";
+import { useState, useEffect } from "react";
 
-function WorkerList({history}) {
-
+function mini1217({history}) {
 
 
 return(
 <>
 </>
 
-)
+)   
 }
-export default WorkerList;
+export default mini1217;
