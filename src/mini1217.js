@@ -6,6 +6,7 @@ function mini1217({history}) {
 
 return(
 <>
+<h1>Merry Christmas</h1>
 </>
 
 )   
